@@ -1,4 +1,4 @@
-# jakub-design-engineering
+# interface-feel
 
 An OpenClaw skill distilled from [Jakub Krehel's](https://jakub.kr) writings on design engineering.
 

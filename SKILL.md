@@ -1,9 +1,9 @@
 ---
-name: jakub-design-engineering
+name: interface-feel
 description: "Design engineering principles, UI polish techniques, animation patterns, CSS/Motion best practices distilled from Jakub Krehel's writings (jakub.kr). Use when implementing animations, building UI interactions, working with gradients/colors, or reviewing interface quality. Triggers on: animation, motion, framer-motion, gesture, drag, transition, gradient, OKLCH, will-change, layout animation, interface polish, UI details."
 ---
 
-# Jakub Krehel — Design Engineering Knowledge Base
+# Interface Feel — Design Engineering Knowledge Base
 Source: https://jakub.kr | @jakubkrehel
 Scraped: 2026-03-10 | 10 articles
 
